@@ -1,16 +1,7 @@
-# expense_tracker_v_2
+# Expense Tracker Application
 
-A new Flutter project.
+This project helps the users to add their expenses. They can provide details like title, date, and amount and can also select the category for their expenses. 
 
-## Getting Started
+The application is currently not persistent, so the users cannot save their data for the future. This app is just to demonstrate my understanding of the flutter framework with respect to the front-end side. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new application will be created with a support to persist data in the local database.
